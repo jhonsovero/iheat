@@ -29,7 +29,7 @@ header{
 
 .banner{
     position: relative;
-    background: url(./img/banner/banner-bg.jpg);
+    background: url(img/banner/banner-bg.jpg);
     min-height: 100vh;
     background-size: cover;
     background-position: center;
